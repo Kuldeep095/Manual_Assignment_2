@@ -1,2 +1,1 @@
 This Assignment includes the Manual Testing concepts like Error, Defect, Bug and Failure, Quality, Risk, Test Planning, STLC (Software Testing Life Cycle), Functional/Non-Functional Testing and their types, Black box/White box Testing and their types, Smoke/Sanity Testing, Test Organizations, QA/QC/Tester, Test Process Documents e.g. HLR, Test Scenario, Test Cases etc, Levels of Software Testing and their types, Alpha/Beta Testing, Re-Testing/Regression Testing, Static/Dynamic Testing, Build/Release, Agile Testing, Agile Methodology etc.
-
